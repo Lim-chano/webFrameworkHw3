@@ -1,0 +1,11 @@
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("iphone11", "phone", 100, "Apple", 100, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("iphone11pro", "phone", 150, "Apple", 20, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("galaxy10", "phone", 100, "Samsung", 100, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("galaxy09", "phone", 150, "Samsung", 20, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("macbook", "computer", 300, "Apple", 100, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("macbookpro", "computer", 350, "Apple", 20, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("alwaysnote13", "computer", 300, "Samsung", 100, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("alwaysnote15", "computer", 350, "Samsung", 20, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("gramnote13", "computer", 300, "LG", 100, "new")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("gramnote15", "computer", 350, "LG", 100, "new")
+
